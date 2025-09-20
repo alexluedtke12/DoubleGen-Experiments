@@ -1,0 +1,12 @@
+# Model checkpoints
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Sample directories (remove these lines if you want to track samples)
+samples_*/
+
+# Generated environment files
+conda-forge::*
